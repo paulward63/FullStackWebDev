@@ -1,0 +1,18 @@
+body {
+  background-color: aliceblue;
+}
+
+.flexBox {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 80%;
+  height: 100px;
+  border: solid black 2px;
+}
+
+.flexItem {
+  width: 25%;
+  height: 50px;
+  border: 2px double red;
+}

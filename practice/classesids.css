@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(108, 108, 182);
+}
+
+.divColor {
+  color: purple;
+}
+
+#divColorId {
+  color: tomato;
+}

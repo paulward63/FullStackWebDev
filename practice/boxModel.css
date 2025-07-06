@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(196, 180, 180);
+}
+
+.box {
+  color: green;
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  padding: 120px 0px 0px 30px;
+  box-sizing: border-box;
+}
+
+.box2 {
+  width: 500px;
+  height: 200px;
+  border: 2px solid red;
+  margin: 30px 40px 60px 100px;
+}
+
+.spanTag {
+  border: 2px solid black;
+  height: 200px;
+  width: 100px;
+  display: block;
+}
