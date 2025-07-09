@@ -79,3 +79,9 @@ nav a:hover {
   width: 100%;
   background: rgba(115, 167, 136, 0.8);
 }
+
+.sloths {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
