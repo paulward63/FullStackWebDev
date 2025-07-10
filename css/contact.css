@@ -67,11 +67,32 @@ nav a:hover {
 
 .banner {
   width: 100%;
-  height: 400px;
+  height: 250px;
   background: url(../images/slothEating.jpg) no-repeat;
   background-position: center;
   background-size: cover;
   margin-bottom: 20px;
+}
+
+.contactAndHours {
+  height: 400px;
+  width: 100%;
+  background: rgba(115, 167, 136, 0.8);
+}
+
+.contactAndHours h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 28px;
+  color: white;
+  text-shadow: 2px 2px black;
+  margin: 0px 0px 40px 30px;
+  padding-top: 40px;
+}
+
+.formAndTable {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 footer {
